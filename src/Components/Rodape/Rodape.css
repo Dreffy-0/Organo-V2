@@ -1,0 +1,10 @@
+.rodape {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	background-size: contain;
+	background-image: url(/public/images/fundo.png);
+	background-color: #6278f7;
+	height: 13.3125rem;
+}

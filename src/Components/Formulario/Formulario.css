@@ -1,0 +1,21 @@
+.formulario-container {
+	display: flex;
+	justify-content: center;
+	margin: 5rem 3.125rem;
+	gap: 20px;
+	flex-wrap: wrap;
+}
+
+.formulario-container .formulario {
+	background-color: #f2f2f2;
+	box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.08);
+	padding: 2.5rem 4rem;
+	border-radius: 20px;
+	flex: 1;
+}
+
+.formulario-container .formulario h2 {
+	font-size: 2rem;
+	font-weight: 400;
+	color: #212121;
+}
